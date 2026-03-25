@@ -1,0 +1,8 @@
+MirrorFit-AR/
+├── app.json          (config)
+├── package.json      (dependencies) 
+├── App.js           (main AR code)
+├── BodyTracker.js   (MediaPipe)
+├── ARClothing.js    (3D models)
+└── assets/
+    └── models/      (100+ GLB files)

@@ -1,0 +1,19 @@
+{
+  "name": "mirrorfit-ar",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android"
+  },
+  "dependencies": {
+    "expo": "~49.0.0",
+    "expo-camera": "~13.4.4",
+    "expo-gl": "~13.0.3",
+    "expo-three": "~6.2.1",
+    "@react-three/fiber": "^8.15.1",
+    "@react-three/drei": "^9.88.13",
+    "three": "^0.158.0",
+    "@mediapipe/tasks-vision": "^0.10.7"
+  }
+}
